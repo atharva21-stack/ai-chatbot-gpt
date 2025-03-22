@@ -1,5 +1,4 @@
 # Advanced AI Chatbot Project
-==========================
 
 ## Overview
 This project is an advanced AI chatbot application that integrates OpenAI's GPT model for generating responses. It features a real-time chat interface, user authentication, conversation history management, and multi-session support. The application is built using a modular architecture with TypeScript for type safety and utilizes Docker for simplified local environment setup.
